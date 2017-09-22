@@ -70,6 +70,5 @@ List of my favorite and handy Xcode shortcuts. Happy coding and get more product
 
 
 ## License
--------
 See the [LICENSE](https://github.com/luongtsu/Handy-Xcode-Shortcuts/blob/master/LICENSE) file for more info.
 
